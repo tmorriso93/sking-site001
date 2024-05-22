@@ -11,8 +11,8 @@ export default function Home() {
   return (
   <>
     <NavbarSection />
-    {/* <HeroSection />
-    <AboutSection />
+     <HeroSection />
+    {/*<AboutSection />
     <ServicesSection />
     <AccordianSection />
     <ContactSection />
